@@ -1,0 +1,6 @@
+streamlit
+supabase
+langchain
+python-dotenv
+langchain-google-genai
+
